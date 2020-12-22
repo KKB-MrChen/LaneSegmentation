@@ -1,0 +1,6 @@
+作业内容:
+对老师提供的U-Net++L2代码进行修改，backbone替换为ResNet，其他卷积块替换为ResNet中的BasicBlock。按照作业中的注释要求进行修改。
+
+提交要求:
+提交修改后的代码（.py或者.ipynb）
+将backbone分别替换为resnet34和resnet50，将打印出的结果截图提交
